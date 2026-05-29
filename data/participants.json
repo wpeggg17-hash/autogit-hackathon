@@ -190,8 +190,8 @@
     "app_type": "fermentation-tracker",
     "pr_number": 26,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/26",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x0e9ff1ad1f34f75daccc42df137d52f950b5268b4c259fe8f30c8cfbe832b0e7",
+    "vault_address": "0xf4CAc16a6c2a04Ad85bE0b7252C0D978F62cb99f",
+    "paid_at": "2026-05-29T10:23:55.002Z"
   }
 ]
