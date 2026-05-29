@@ -515,8 +515,8 @@
     "app_type": "serial-terminal",
     "pr_number": 60,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/60",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xdf846945f555d06f985b6a41487d12f06a025713c41a65e4539f84fe9f5b6527",
+    "vault_address": "0xe065b5117DD89D37aAa2B8a8e5e734C95A96B0B5",
+    "paid_at": "2026-05-29T13:33:04.268Z"
   }
 ]
