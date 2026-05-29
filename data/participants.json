@@ -414,5 +414,18 @@
     "tx_hash": "0x714bc078648000cb0892b3692801c5763b8e2e53d2de985715b81dcf7264674c",
     "vault_address": "0x575CaDa6DD66CFe10a54781B1F3ef5c7D19D8131",
     "paid_at": "2026-05-29T12:28:36.076Z"
+  },
+  {
+    "entry_number": 33,
+    "github_id": 288931636,
+    "github_login": "windowsupi",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288931636?v=4",
+    "template_title": "Card Loom",
+    "app_type": "card-loom",
+    "pr_number": 48,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/48",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
