@@ -528,8 +528,8 @@
     "app_type": "shopping-list",
     "pr_number": 61,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/61",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x6f87d517bbd31d4c6e77a7ad9a1d2271db49f77789ec1c5cd18b6167e56ef164",
+    "vault_address": "0x76B112c6704aB9aecb426ee1B1DCa6A187aD8E3A",
+    "paid_at": "2026-05-29T13:42:04.381Z"
   }
 ]
