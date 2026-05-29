@@ -788,8 +788,8 @@
     "app_type": "event-schedule-app",
     "pr_number": 87,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/87",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xecb8be46d3035f75024dd6048efd155b1fb0c82b1703e2c4f5755cd3040a38c8",
+    "vault_address": "0xB3b2428dAD764B2025BB36abA647FedD2b0b2cF2",
+    "paid_at": "2026-05-29T15:37:02.401Z"
   }
 ]
