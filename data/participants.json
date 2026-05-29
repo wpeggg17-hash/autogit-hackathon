@@ -349,5 +349,18 @@
     "tx_hash": "0xd3a45604fb9ab0d37dc8a750ac2da37d400f31e69672e978621753acf6ab118d",
     "vault_address": "0x2d113FC0C2E313f4589Da38E63344c05b6adaa1E",
     "paid_at": "2026-05-29T11:54:39.337Z"
+  },
+  {
+    "entry_number": 28,
+    "github_id": 288924766,
+    "github_login": "koneng6984",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288924766?v=4",
+    "template_title": "Prime Sieve",
+    "app_type": "prime-sieve",
+    "pr_number": 41,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/41",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
