@@ -505,5 +505,18 @@
     "tx_hash": "0xca5427f3a06e3ae11f8c78885e092efbfbe9e2490bde21092650f3522840b4ee",
     "vault_address": "0xDFCD73C43C866E28Af1D24ED70870B40637beF97",
     "paid_at": "2026-05-29T13:19:16.470Z"
+  },
+  {
+    "entry_number": 40,
+    "github_id": 288947779,
+    "github_login": "twitterini152",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288947779?v=4",
+    "template_title": "Serial Terminal",
+    "app_type": "serial-terminal",
+    "pr_number": 60,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/60",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
