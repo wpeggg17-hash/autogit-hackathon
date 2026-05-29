@@ -801,8 +801,8 @@
     "app_type": "workout-plan-generator",
     "pr_number": 88,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/88",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x5b3137711959d2835f68a97683efc580f468932c8c2bfaf3b00fc2461d4d1c2c",
+    "vault_address": "0x55C8DFa0Ac2bB033831CfB190340941da72bF2e3",
+    "paid_at": "2026-05-29T15:41:03.435Z"
   }
 ]
