@@ -60,8 +60,8 @@
     "app_type": "privsend",
     "pr_number": 15,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/15",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xbbef3ad646ac648fe611e2aee4943d982d96b9dd27bf07ce404cb63a8f8f5dd8",
+    "vault_address": "0x1b2819f7280Ad556d11AD0BA1a335a06c9c42593",
+    "paid_at": "2026-05-29T07:26:48.555Z"
   }
 ]
