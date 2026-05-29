@@ -323,5 +323,18 @@
     "tx_hash": "0xe802249fe7bba8de3f285627a61ef3c3e4d3fe279bf27c9c183d3f3d5ac99a07",
     "vault_address": "0x7d59074A128400c6A29d76c26891C3e5c68eD97a",
     "paid_at": "2026-05-29T11:43:06.807Z"
+  },
+  {
+    "entry_number": 26,
+    "github_id": 288922377,
+    "github_login": "mitchelinn",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288922377?v=4",
+    "template_title": "Offline Zine",
+    "app_type": "offline-zine",
+    "pr_number": 39,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/39",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
