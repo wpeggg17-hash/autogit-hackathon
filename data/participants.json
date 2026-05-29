@@ -424,8 +424,8 @@
     "app_type": "card-loom",
     "pr_number": 48,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/48",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x4b3940ac3f0bc1ff5bc2d82e501f753d5dbbd0275d2156c76018b88d01156fb9",
+    "vault_address": "0x996E0fb72122f43E950e6522a0b75a683F48Bc55",
+    "paid_at": "2026-05-29T12:36:41.737Z"
   }
 ]
