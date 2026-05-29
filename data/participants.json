@@ -502,8 +502,8 @@
     "app_type": "boids-flock",
     "pr_number": 57,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/57",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xca5427f3a06e3ae11f8c78885e092efbfbe9e2490bde21092650f3522840b4ee",
+    "vault_address": "0xDFCD73C43C866E28Af1D24ED70870B40637beF97",
+    "paid_at": "2026-05-29T13:19:16.470Z"
   }
 ]
