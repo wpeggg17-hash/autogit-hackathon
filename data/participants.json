@@ -827,8 +827,8 @@
     "app_type": "travel-bucket-list",
     "pr_number": 91,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/91",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x04c2ff5c9a76c27db2e7d826fe269e98e1d3214516edf0abb27b911f5687da97",
+    "vault_address": "0x187fFC8A4c02FfEf074a8F7c35cF5BF85ff8c505",
+    "paid_at": "2026-05-29T15:43:35.822Z"
   }
 ]
