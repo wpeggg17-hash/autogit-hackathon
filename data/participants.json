@@ -255,8 +255,8 @@
     "app_type": "iss-tracker",
     "pr_number": 31,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/31",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x2c4dff8ff5d77bb09d40fb87b9f24a466b53e9bcaadd6ef10c90e6a5fc003908",
+    "vault_address": "0xFB57eDBc484DeB281B5300c0954EFc0228fF84da",
+    "paid_at": "2026-05-29T11:05:43.487Z"
   }
 ]
