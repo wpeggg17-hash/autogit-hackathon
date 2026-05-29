@@ -830,5 +830,18 @@
     "tx_hash": "0x04c2ff5c9a76c27db2e7d826fe269e98e1d3214516edf0abb27b911f5687da97",
     "vault_address": "0x187fFC8A4c02FfEf074a8F7c35cF5BF85ff8c505",
     "paid_at": "2026-05-29T15:43:35.822Z"
+  },
+  {
+    "entry_number": 65,
+    "github_id": 288946110,
+    "github_login": "biogaser",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288946110?v=4",
+    "template_title": "Markdown Slides",
+    "app_type": "markdown-slides",
+    "pr_number": 92,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/92",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
