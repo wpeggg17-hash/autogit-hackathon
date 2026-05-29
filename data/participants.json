@@ -778,5 +778,18 @@
     "tx_hash": "0xfa466176649370d0cb1e280d15c1665a487695dbeec98fb8f9d30ff74df1ee76",
     "vault_address": "0xF62425A903499532670DA3Feb25d34353EA67Cf3",
     "paid_at": "2026-05-29T15:31:05.290Z"
+  },
+  {
+    "entry_number": 61,
+    "github_id": 288984092,
+    "github_login": "wpeggg20-glitch",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288984092?v=4",
+    "template_title": "Event Schedule App",
+    "app_type": "event-schedule-app",
+    "pr_number": 87,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/87",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
