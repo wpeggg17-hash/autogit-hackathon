@@ -723,8 +723,8 @@
     "app_type": "budget-planner",
     "pr_number": 80,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/80",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xe2f9a5c4ed337f9085ea75f5db4d0b12ee879154e1c670f9a5bbce01bb822938",
+    "vault_address": "0x50a1E59C97A200F7888644D517b5B86F313a5A57",
+    "paid_at": "2026-05-29T15:14:46.371Z"
   }
 ]
